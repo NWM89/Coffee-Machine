@@ -1,0 +1,7 @@
+machine/CoffeeMachine.java
+ machine.CoffeeEngine
+ machine.CoffeeEngine$1
+ machine.CoffeeEngine$Action
+ machine.CoffeeEngine$Resources
+ machine.CoffeeEngine$Type
+ machine.CoffeeMachine
